@@ -31,6 +31,12 @@
 
 ### Community Announcement
 
+- Hey everybody!
+- We just launched our new log viewer for the web UI. 🥳
+- The terminal is terrific for a lot of things, but if you're like us, you feel that browsing and searching for events in your stack in the terminal is quite limited and also not as fast as it could be.
+- Gone are the days of long-winded 1-second-long refresh times because now we're streaming your logs live, as they happen. This is thanks to our new NATS setup, which opens the door to a lot of new possibilities (Blogpost on that soon!)
+- You can find the log viewer under the tab "Logs" (duh!) under your apps. As always, please let us know what you think. 🙂
+
 
 ### My personal, messy notes
 
