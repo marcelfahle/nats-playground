@@ -39,8 +39,7 @@
 - 17:46 The logging viewer is for the new Phoenix UI, ui-ex. There's also an update on how to get to those looks. In the past that was just polling a REST endpoint
 
 - ```javascript
- curl https://api.fly.io/api/v1/apps/small-frog-8170/logs \
--H "Authorization: Bearer IalmostCommitedThis"
+ curl https://api.fly.io/api/v1/apps/small-frog-8170/logs -H "Authorization: Bearer IalmostCommitedThis"
 ```
 
 - but now it's using a NATS stream. I heard but never looked at nats, so I'm watching a quick video on how it works and then look if there's an Elixir client.
