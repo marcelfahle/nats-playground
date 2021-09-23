@@ -38,7 +38,7 @@
 - 17:45 cool, done that let's move onto the logging viewer.
 - 17:46 The logging viewer is for the new Phoenix UI, ui-ex. There's also an update on how to get to those looks. In the past that was just polling a REST endpoint
 
-- ```javascript
+```javascript
  curl https://api.fly.io/api/v1/apps/small-frog-8170/logs -H "Authorization: Bearer IalmostCommitedThis"
 ```
 
